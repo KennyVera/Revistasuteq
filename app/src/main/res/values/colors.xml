@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <!-- UTEQ Palette -->
+    <color name="primary_uteq">#1D9E75</color>
+    <color name="primary_dark_uteq">#0F6E56</color>
+    <color name="background_uteq">#F5F5F5</color>
+    <color name="text_primary_uteq">#212121</color>
+    <color name="text_secondary_uteq">#757575</color>
+    <color name="accent_uteq">#1D9E75</color>
+</resources>
